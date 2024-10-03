@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/gG6OcTSRWaSis/giphy.gif" alt="Coder GIF" width="500">
 </div>
 
-<h1 align="center">Hi, I'm James España 👋</h1>
+<h1 align="center">Hi, I'm James 👋</h1>
 
 <p align="center">
   <b>A web systems developer from the Philippines</b>, passionate about frontend and backend technologies.
@@ -89,10 +89,3 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C458%20hrs%2034%20mins-blue)
 
-**🐱 My GitHub Data** 
-
-```text
-🌞 Morning    10 commits      █████████░░░░░░░░░░░░░░░░   40% 
-🌆 Daytime    10 commits      █████████░░░░░░░░░░░░░░░░   40% 
-🌃 Evening    5 commits       █████░░░░░░░░░░░░░░░░░░░░   20% 
-🌙 Night      0 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
