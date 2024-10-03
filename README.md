@@ -1,7 +1,8 @@
 # Hi, I'm James España 👋
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</div>
 A web systems developer from the Philippines, passionate about frontend and backend technologies. I regularly work with modern web frameworks and love learning new tech. I also enjoy contributing to open-source projects and experimenting with new tools.
 
 ## About Me
