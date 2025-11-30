@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm James 👋</h1>
 
 <p align="center">
-  <b>A web systems developer from the Philippines</b>, passionate about frontend and backend technologies.
+  <b>A web systems developer from the Philippines</b> passionate about frontend and backend technologies.
   <br>
   I regularly work with modern web frameworks and love learning new tech.
   <br>
@@ -18,16 +18,33 @@
   <a href="mailto:jamesespana308@gmail.com">
     <img src="https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Mail Badge">
   </a>
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=cxyfreedom.cxyfreedom">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=cxyfreedom.cxyfreedom" alt="Visitor Badge">
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=jmsespana.jmsespana">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=jmsespana.jmsespana" alt="Visitor Badge">
   </a>
   <a href="https://github-readme-stats.vercel.app/api?username=jmsespana&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en">
-    <img src="https://img.shields.io/github/stars/cxyfreedom?color=fefb7b&logo=Undertale" alt="GitHub Stars Badge">
+    <img src="https://img.shields.io/github/stars/jmsespana?color=fefb7b&logo=Undertale" alt="GitHub Stars Badge">
   </a>
-  <a href="https://github.com/jamesespana?tab=followers">
-    <img src="https://img.shields.io/github/followers/cxyfreedom?color=27da6b&logo=Handshake" alt="GitHub Followers Badge">
+  <a href="https://github.com/jmsespana?tab=followers">
+    <img src="https://img.shields.io/github/followers/jmsespana?color=27da6b&logo=Handshake" alt="GitHub Followers Badge">
   </a>
 </div>
+
+---
+
+<h2 align="center">🗂️ My Projects & Repositories</h2>
+
+<p align="center">Here are some of my key projects:</p>
+
+<ul>
+  <li><b>Project A</b>: A full-stack web app that showcases <i>Vue.js</i> and <i>Vuetify</i> for dynamic, responsive UIs.</li>
+  <li><b>Project B</b>: Data analysis toolkit built in <i>Python</i> and <i>PostgreSQL</i>.</li>
+  <li><b>Project C</b>: Backend system using <i>Java</i> and <i>C language</i> for robust computations.</li>
+  <li><b>Project D</b>: Experimenting with modern JavaScript APIs for innovative UI features.</li>
+</ul>
+
+<p align="center">
+  <a href="https://github.com/jmsespana?tab=repositories">See all my repositories</a>
+</p>
 
 ---
 
@@ -88,4 +105,3 @@
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C458%20hrs%2034%20mins-blue)
-
