@@ -1,23 +1,27 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=80&duration=3000&pause=1000&color=00FF41&background=000000,0A0E0A,0F1E0F,0A0E0A,000000&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=150&lines=Jimsss" alt="Animated Name" />
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="900">
 </div>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <p align="center">
-  <b>Web Systems Developer from the Philippines</b>
+  <b>Web Systems Developer from the Philippines 🇵🇭</b>
   <br>
   Passionate about building projects like web and mobile applications also exploring AI technologies.
 </p>
 
+<h2 align="center">🌐 Let's Connect 🌐</h2>
 
 <div align="center">
-  <a href="mailto:jamesespana308@gmail.com">
-    <img src="https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Mail Badge">
+  <a href="https://www.facebook.com/jamesgomezjusto.espana" target="_blank">
+    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://github.com/jmsespana?tab=followers">
-    <img src="https://img.shields.io/github/followers/jmsespana?color=27da6b&logo=Handshake" alt="GitHub Followers Badge">
+  <a href="https://www.instagram.com/sanjimsssss_/" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:jamesespana308@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
-
 
 <h2 align="center">🛠️ Tech Stack 🛠️</h2>
 
@@ -36,7 +40,6 @@
   <a href="https://vuejs.org/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> 
   </a>
-
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
@@ -63,5 +66,10 @@
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   </a>
+</div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=James's%20Contribution%20Graph&bg_color=0D1117&color=87A96B&line=00FF41&point=FFFFFF&area_color=87A96B&title_color=87A96B&area=true&hide_border=true&radius=16" width="95%" alt="3D Contribution Graph">
 </div>
