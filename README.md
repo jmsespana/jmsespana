@@ -84,29 +84,3 @@
   </a>
 
 </div>
-
----
-
-<h2 align="center">📊 GitHub Stats 📊</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jmsespana&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmsespana&theme=material-palenight&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmsespana&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jmsespana&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
-</div>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C458%20hrs%2034%20mins-blue)
-<!--END_SECTION:waka-->
