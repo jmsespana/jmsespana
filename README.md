@@ -5,7 +5,7 @@
 <p align="center">
   <b>Web Systems Developer from the Philippines</b>
   <br>
-  Passionate about building full-stack applications and exploring AI technologies.
+  Passionate about building projects like web and mobile applications also exploring AI technologies.
 </p>
 
 
