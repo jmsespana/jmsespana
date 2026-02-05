@@ -8,7 +8,6 @@
   Passionate about building full-stack applications and exploring AI technologies.
 </p>
 
----
 
 <div align="center">
   <a href="mailto:jamesespana308@gmail.com">
@@ -19,7 +18,6 @@
   </a>
 </div>
 
----
 
 <h2 align="center">🛠️ Tech Stack 🛠️</h2>
 
