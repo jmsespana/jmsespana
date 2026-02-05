@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=80&duration=3000&pause=1000&color=00F7F7&background=000000&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=150&lines=Jimsss" alt="Animated Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=80&duration=3000&pause=1000&color=00FF41&background=000000,0A0E0A,0F1E0F,0A0E0A,000000&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=150&lines=Jimsss" alt="Animated Name" />
 </div>
 
 <p align="center">
@@ -41,9 +41,6 @@
   <a href="https://vuejs.org/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> 
   </a> 
-  <a href="https://getbootstrap.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
   <a href="https://vuetifyjs.com/en/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" alt="vuetify" width="40" height="40"/> 
   </a>
